@@ -1,22 +1,22 @@
-# Hi, I'm Camilla! 👋
+# Olá, eu sou a Camilla! 👋
 
-🎓 Systems Analysis and Development student at UNICID  
-💻 Interested in technology, programming, and exploring different areas of IT  
-🌱 Currently building my skills through academic and personal projects
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNICID  
+💻 Interessada em tecnologia, programação e em explorar diferentes áreas de TI  
+🌱 Atualmente desenvolvendo minhas habilidades por meio dos estudos acadêmicos e da prática pessoal
 
-## 📚 Currently Learning
+## 📚 Atualmente estudando
 
-- Programming Logic
-- Algorithms and Computational Thinking
-- Web Development
-- HTML and CSS
-- Database Modeling
-- Git and GitHub
+- Lógica de Programação
+- Algoritmos e Pensamento Computacional
+- Desenvolvimento Web
+- HTML e CSS
+- Modelagem de Banco de Dados
+- Git e GitHub
 
-## 🎯 Goals
+## 🎯 Objetivos
 
-My goal is to build a strong foundation in technology, explore different areas of the field, develop practical projects, and discover the path that best fits my interests and skills.
+Meu objetivo é construir uma base sólida em tecnologia, explorar diferentes áreas de TI, desenvolver projetos práticos e descobrir o caminho que melhor combina com meus interesses e habilidades.
 
-## 🚀 My Journey
+## 🚀 Minha jornada
 
-I'm currently starting my journey in technology and using GitHub to document my learning, practice programming, and build my portfolio.
+Estou começando minha jornada na área de tecnologia e utilizando o GitHub para registrar meu aprendizado, praticar programação e construir meu portfólio.
